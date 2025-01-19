@@ -9,7 +9,7 @@ A continuación, procedo a describir la notación de los métodos usados para su
 - datos.xlsx, son los datos 1 del trabajo.
 - Datos2.xlsx, son los datos 2. Atención porque contiene más de los usados.
 - ComBaseExport.xlsx, los datos usados para los ejemplos de latencia.
-- Los usados para el Modelo Secundario no están incluidos puesto que la autoría y propiedad son de un artículo publicado (Serrano-Heredia, 2023). Si se quieren, para un uso científico y/o académico, pueden ponerse en contacto conmigo.
+- Los usados para el Modelo Secundario no están incluidos puesto que la autoría y propiedad son de un artículo publicado (Heredia et al., 2024). Si se quieren, para un uso científico y/o académico, pueden ponerse en contacto conmigo.
 
 **Trifase Primario:**
 - Gauss-Newton: TrifaseGNRF1True.R y TrifaseGNRFTrue.R, para datos 1 y datos 2.
