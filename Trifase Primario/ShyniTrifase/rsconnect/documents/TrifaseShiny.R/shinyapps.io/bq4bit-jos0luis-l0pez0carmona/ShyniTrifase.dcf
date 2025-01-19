@@ -1,0 +1,13 @@
+name: ShyniTrifase
+title: ShyniTrifase
+username: bq4bit-jos0luis-l0pez0carmona
+account: bq4bit-jos0luis-l0pez0carmona
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13089919
+bundleId: 9253951
+url: https://bq4bit-jos0luis-l0pez0carmona.shinyapps.io/ShyniTrifase/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rbuildignore
